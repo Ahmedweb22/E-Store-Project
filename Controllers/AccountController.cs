@@ -96,9 +96,6 @@ namespace APITest.Controllers
             return BadRequest(ModelState);
         }
 
-        private X509Certificate2 SymmetricSecurityKey(object value)
-        {
-            throw new NotImplementedException();
-        }
+        
     }
 }

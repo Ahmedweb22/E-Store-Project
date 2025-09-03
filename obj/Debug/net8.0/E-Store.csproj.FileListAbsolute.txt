@@ -72,7 +72,6 @@ C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\Microsoft.
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
-C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\Mono.TextTemplating.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
@@ -88,6 +87,7 @@ C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\NuGet.Vers
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\SQLitePCLRaw.batteries_v2.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\SQLitePCLRaw.core.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\Stripe.net.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -99,14 +99,11 @@ C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\System.Com
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\System.Composition.Runtime.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\System.Composition.TypedParts.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\System.Drawing.Common.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\System.Memory.Data.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\System.Runtime.Caching.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\System.Security.Permissions.dll
-C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\System.Windows.Extensions.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\af\Humanizer.resources.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\ar\Humanizer.resources.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\az\Humanizer.resources.dll
@@ -252,7 +249,6 @@ C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\runtimes\w
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
@@ -273,10 +269,7 @@ C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\runtimes\w
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
-C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
-C:\Users\Andaloos Store\source\repos\APITest\APITest\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
 C:\Users\Andaloos Store\source\repos\APITest\APITest\obj\Debug\net8.0\E-Store.csproj.AssemblyReference.cache
 C:\Users\Andaloos Store\source\repos\APITest\APITest\obj\Debug\net8.0\rpswa.dswa.cache.json
 C:\Users\Andaloos Store\source\repos\APITest\APITest\obj\Debug\net8.0\E-Store.GeneratedMSBuildEditorConfig.editorconfig
@@ -285,6 +278,7 @@ C:\Users\Andaloos Store\source\repos\APITest\APITest\obj\Debug\net8.0\E-Store.As
 C:\Users\Andaloos Store\source\repos\APITest\APITest\obj\Debug\net8.0\E-Store.csproj.CoreCompileInputs.cache
 C:\Users\Andaloos Store\source\repos\APITest\APITest\obj\Debug\net8.0\E-Store.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Andaloos Store\source\repos\APITest\APITest\obj\Debug\net8.0\E-Store.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andaloos Store\source\repos\APITest\APITest\obj\Debug\net8.0\E-Store.sourcelink.json
 C:\Users\Andaloos Store\source\repos\APITest\APITest\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\Users\Andaloos Store\source\repos\APITest\APITest\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\Users\Andaloos Store\source\repos\APITest\APITest\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
